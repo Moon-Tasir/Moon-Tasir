@@ -10,7 +10,6 @@ I’m a Front End Web developer who is passionate about making error-free websit
 
 
 
-Skills:  REACT / JS / HTML / CSS/ Bootstrap/ Nodejs/ C++ / Python
 
  
 
