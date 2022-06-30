@@ -1,9 +1,7 @@
 
 ### Hi there 👋, I'm Moontasir Moon
 
-#### 👑 I am Web Developer
-####🖊️ Love to write code
-####🎤 Like to share my knowledge
+#### 👑 I am Web Developer  🖊️ Love to write code  🎤 Like to share my knowledge
 
 ![Profile views](https://gpvc.arturio.dev/Moon-Tasir)  
 
